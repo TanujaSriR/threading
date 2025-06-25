@@ -1,0 +1,4 @@
+2025-06-24 17:54:02,286 - ERROR - Failed to download https://file-examples.com/wp-content/uploads/2017/10/file-sample_500kB.pdf: 403 Client Error: Forbidden for url: https://file-examples.com/wp-content/uploads/2017/10/file-sample_500kB.pdf
+2025-06-24 17:54:02,297 - ERROR - Failed to download https://file-examples.com/wp-content/uploads/2017/10/file-sample_150kB.pdf: 403 Client Error: Forbidden for url: https://file-examples.com/wp-content/uploads/2017/10/file-sample_150kB.pdf
+2025-06-24 17:54:02,468 - INFO - Downloaded: downloads\dummy.pdf
+2025-06-24 17:54:02,469 - INFO - Checksum (md5) for downloads\dummy.pdf: 2942bfabb3d05332b66eb128e0842cff
